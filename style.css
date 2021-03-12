@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/03/2021, 10:51:45
+    Author     : ferfe
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  width: 70%;
+  height: 70vh;
+  background-color: #72B0BB;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.container {
+  width: 1400px;
+  height: 400px;
+  background: white;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.topo{
+   margin-top:40px; 
+}
+a houver{
+        background: grey;
+}
